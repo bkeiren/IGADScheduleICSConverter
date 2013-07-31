@@ -225,5 +225,3 @@ dist/Release/*
 !dist/Release/*.exe
 !dist/Debug/*.dll
 !dist/Release/*.dll
-!dist/Debug/*.lib
-!dist/Release/*.lib
