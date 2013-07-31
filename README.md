@@ -1,7 +1,14 @@
-IGADScheduleICSConverter
+IGAD Schedule ICS Converter
 ========================
 
 Software to download IGAD schedules from the NHTV roster website, and convert them to .ics format (iCalendar) so that they can be read by digital agendas.
+
+Skip the talk! Where can I get those nifty iCal files?
+------------------------
+
+From time to time I will grab all IGAD schedules available and put them online at http://bryankeiren.com/files_public/index.php?dir=nhtv_schedules%2F. You are free to check that webpage for the schedule(s) you're interested in and add them to your agenda from their own URL.
+
+If you'd like me to update any of those files I host online, let me know and I'll get on it (let me know through GitHub, my [website](http://bryankeiren.com/contact) or Facebook (if you know me) or even in person!).
 
 How to use
 ------------------------
